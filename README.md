@@ -206,6 +206,7 @@ Tanque 25% Rango >=300cm <399cm
 ![](
 
 Tanque vacío 0% >=399cm <=499cm
-![](
+![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Resultados%20practica%206%20tanque%200%25.png?raw=true)
+
 ## Créditos
 Ralizado por el Ingeniero David Mejía
