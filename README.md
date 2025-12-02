@@ -173,15 +173,14 @@ delay (2000);
 
 ![](https://github.com/Dave-Mejia/Reporte-5-Sensor-ultrasonico-y-de-temperatura/blob/main/Add%20new%20part.png?raw=true)
 
-8. Buscar el sensor  y agregar
+8. Buscar el sensor HC-SR04 y agregar
    
-![](
+![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Add%20new%20part%203.png?raw=true)
 
-9. Repetir el paso anterior buscar el sensor HCSR04 y agregar 
-10. De igual forma buscar la pantalla LCD 16x2(I2C) y agregar
+9. De igual forma buscar la pantalla LCD 16x2(I2C) y agregar
    
 11. Conectar circuito como indica la figura de abajo
-![](https://github.com/Dave-Mejia/Reporte-5-Sensor-ultrasonico-y-de-temperatura/blob/main/Conexion%20Tarjeta%20ESP32,%20Sensor%20DHT22,%20sensor%20HC-SR-04%20y%20pantalla%20LCD.png?raw=true)
+![](
 
 ### Operación
 12. Iniciar simulador dando clic en el icono "start simulation"
