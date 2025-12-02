@@ -194,7 +194,7 @@ delay (2000);
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
 Tanque 100% Rango >=1cm <=99cm
-![](
+![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Resultados%20practica%206%20tanque%20lleno.png?raw=true)
 
 Tanque 75% Rango >=100cm <=199cm
 ![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Resultados%20practica%206%20tanque%2075%25.png?raw=true)
