@@ -200,7 +200,7 @@ Tanque 75% Rango >=100cm <=199cm
 ![](
 
 Tanque 50% Rango >=200cm <=299cm
-![](
+![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Resultados%20practica%206%20tanque%2050%25.png?raw=true)
 
 Tanque 25% Rango >=300cm <399cm
 ![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Resultados%20practica%206%20tanque%2025%25.png?raw=true)
