@@ -180,7 +180,7 @@ delay (2000);
 9. De igual forma buscar la pantalla LCD 16x2(I2C) y agregar
    
 11. Conectar circuito como indica la figura de abajo
-![](
+![](https://github.com/Dave-Mejia/Reporte-6-Nivel-de-agua/blob/main/Conexion%20nivel%20de%20agua.png?raw=true)
 
 ### Operación
 12. Iniciar simulador dando clic en el icono "start simulation"
@@ -192,10 +192,20 @@ delay (2000);
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![](https://github.com/Dave-Mejia/Reporte-5-Sensor-ultrasonico-y-de-temperatura/blob/main/resultado%20sensor%20ultrasonico%20y%20temperatura%201.png?raw=true)
-![](https://github.com/Dave-Mejia/Reporte-5-Sensor-ultrasonico-y-de-temperatura/blob/main/resultado%20sensor%20ultrasonico%20y%20temperatura%202.png?raw=true)
-![](https://github.com/Dave-Mejia/Reporte-5-Sensor-ultrasonico-y-de-temperatura/blob/main/resultado%20sensor%20ultrasonico%20y%20temperatura%203.png?raw=true)
-![](https://github.com/Dave-Mejia/Reporte-5-Sensor-ultrasonico-y-de-temperatura/blob/main/resultado%20sensor%20ultrasonico%20y%20temperatura%204.png?raw=true)
 
+Tanque 100% Rango >=1cm <=99cm
+![](
+
+Tanque 75% Rango >=100cm <=199cm
+![](
+
+Tanque 50% Rango >=200cm <=299cm
+![](
+
+Tanque 25% Rango >=300cm <399cm
+![](
+
+Tanque vacío 0% >=399cm <=499cm
+![](
 ## Créditos
 Ralizado por el Ingeniero David Mejía
